@@ -5,3 +5,4 @@ This repo contains implementation solutions to various problems using DP. Most a
 Problem Contents:
 
 - Subset Sum
+- Distinct BSTs (Catalan sequence)

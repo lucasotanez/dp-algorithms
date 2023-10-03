@@ -1,4 +1,4 @@
-#  Dynamic Programming Algorithms
+# :arrow_forward: Dynamic Programming Algorithms :arrow_backward:
 
 This repo contains implementation solutions to various problems using DP. Most are in C++.
 

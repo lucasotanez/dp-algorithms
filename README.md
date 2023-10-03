@@ -7,6 +7,7 @@ This repo contains implementation solutions to various problems using DP. Most a
 - Subset Sum
 - Distinct BSTs (Catalan sequence)
 - Longest Palindromic Substring
+- Magic Potions (3d exact weight knapsack)
 
 ### Testing
 

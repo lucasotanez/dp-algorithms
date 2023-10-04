@@ -8,7 +8,7 @@
 Given a string S, find the longest possible palindromic substring.
 
 Recursively,
-LPP(i, j) = longest palindromic substring between indexes i and j of the string
+LPP(i, j) = longest palindromic substring in string[i:n] starting with string[i:j]
 LPP(i, j) = max(current, LPP(i+1, j) (ONLY IF i < j), LPP(i, j+1))
 The largest length will propogate up the call stack
 
